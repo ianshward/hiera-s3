@@ -1,0 +1,8 @@
+name    'hiera-s3'
+version '0.0.0'
+source 'http://github.com/ianshward/hiera-s3'
+author 'Ian Ward'
+license 'BSD'
+summary 'S3 back end for Hiera'
+description 'S3 back end for Hiera'
+project_page 'http://github.com/ianshward/hiera-s3'
